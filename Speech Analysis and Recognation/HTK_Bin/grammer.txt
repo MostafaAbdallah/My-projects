@@ -1,0 +1,2 @@
+$digit = WAHED | ETNEEN | TALAATA | ARBA3A | KHAMSA | SETTA | SAB3A | TAMANYA | TES3A | ZERO;
+( SIL <$digit [SIL] > SIL )
