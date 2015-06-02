@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430092762 source:/home/mostafa/CODES/ACM/ACM/ProblemSolving2015/SecondWeek 21-4/B. Fedor and New Game 467B/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

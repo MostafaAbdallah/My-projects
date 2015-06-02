@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428909696 source:f:\acm\problemsolving2015\firstweek13-4\a. gravity flip 405a\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
