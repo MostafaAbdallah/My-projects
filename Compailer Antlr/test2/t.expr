@@ -1,0 +1,6 @@
+axiom RL
+production L -> R+[[L]-+R]
+production R -> L-R-L
+angle = 25.2
+lenght = 2
+iterations = 5

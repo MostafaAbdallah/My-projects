@@ -1,0 +1,5 @@
+axiom F
+production F -> FF-[-F+F+F]+[+F-F-F]
+angle = 22.5
+lenght = 2
+iterations = 4
