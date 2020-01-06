@@ -1,6 +1,6 @@
 # My-projects
 Name: Mostafa Abdallah Abd El-Maksoud
-E-mail: mostafaabdallah@stud.fci-cu.edu.eg
+E-mail: mostafaabdallah42@gmail.com
 Phone: +20201017202211
 
 Faculty of computer and information, Cairo University, Cairo (Egypt)
